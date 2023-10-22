@@ -1,29 +1,8 @@
-# Hi, I'm Zach :wave:
+# hi, i'm halil :wave:
 
-Software engineering student and aspiring software entrepreneur with  
-a focus on modular software and clean code.
+im a young, dynamic and communication-loving person who graduated from computer engineering.
 
-Interested in building fun, interactive, and beautiful experiences  
-(front-end/graphics/games/VR/creative coding).  
-
-## Life
-
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
-
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
-
-[42tm]: https://github.com/42tm
-[abyss]: https://github.com/abyss-inc
-[ur]: https://rochester.edu
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
+interested in building fun, interactive, and beautiful experiences  
 
 ## Skills
 
